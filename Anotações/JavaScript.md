@@ -408,10 +408,6 @@ Isso irá imprimir cada par chave-valor do objeto person na tela.
 
 Resumo do que ele faz : ???
 
-
-
-# DOM
-
 # DOM
 * Os eventos do DOM (Document Object Model) são ações que podem ser realizadas em elementos HTML, como cliques, mouseovers, digitação de texto, etc. Esses eventos podem ser tratados com JavaScript para que ocorram ações específicas quando o evento é disparado.
 
