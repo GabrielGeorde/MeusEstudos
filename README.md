@@ -3,3 +3,4 @@ Olá , me chamo [Gabriel Georde](https://twitter.com/GabrielGeorde) e aqui irei 
 
 * HTML
 * [CSS](Anotações/cssNote.md)
+* [JavaScript](Anotações/JavaScript.md)
