@@ -302,6 +302,7 @@ Exemplo:
 
 No JavaScript , "try" e "catch" são estruturas usadas para gerenciar erros que podem surgir durante a execução do código. Quando um erro é detectado no bloco "try", a execução do código é interrompida e a execução é transferida para o bloco "catch", onde é possível tratar o erro e realizar ações apropriadas. O bloco "finally", quando presente, é executado independentemente do resultado do bloco "try" e "catch".
 
+Exemplo:
 
 	try {
 	  // Código que pode lançar um erro
@@ -314,7 +315,7 @@ No JavaScript , "try" e "catch" são estruturas usadas para gerenciar erros que 
 	  console.log("Bloco finally sendo executado");
 	}
 
-
+Se ocorrer um erro durante a divisão de "x" por "y", a mensagem de erro será exibida no console. Se não houver erros, o código dentro do bloco "try" será executado normalmente, e o bloco "finally" será executado no final, independentemente do resultado.
 
 # Estruturas de Repetições
 ### For
