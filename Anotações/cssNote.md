@@ -149,11 +149,35 @@ exemplos :
 block: <p> <div> <section> todos os headings <h1>
 inline: <a> <strong> <span> <em>
  ```
-# Margin
+# Margin , Padding, Border
 
-# Padding
+* **Margin**: Define a margem externa de um elemento em relação aos elementos circundantes. 
+Por exemplo:
 
-# Border
+
+>div {
+  margin: 10px;
+}
+
+
+
+ * **Padding**: Define o preenchimento interno de um elemento, ou seja, a distância entre as bordas do elemento e seu conteúdo. 
+ Por exemplo:
+
+>div {
+  padding: 20px;
+}
+
+* **Border**: Define a borda de um elemento, que pode ser estilizada de várias maneiras, como largura, cor e estilo. 
+Por exemplo:
+
+>div {
+  border: 1px solid black;
+}
+
+
+
+
 
 
 # Cores
