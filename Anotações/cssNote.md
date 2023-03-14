@@ -127,11 +127,11 @@ Normalmente usa-se o código abaixo como forma de "resetar" o box-sizing que vem
 }
 ```
 # Display block-inline
-O display: block e o display: inline são dois valores da propriedade CSS "display" que determinam como um elemento é exibido na página.
+O **display: block** e o display: inline são dois valores da propriedade CSS "display" que determinam como um elemento é exibido na página.
 
-O display: block faz com que um elemento se comporte como um elemento de bloco, ou seja, ocupa todo o espaço disponível na largura do seu container e empurra para a próxima linha abaixo . Alguns exemplos de elementos que são exibidos como bloco por padrão são divs, h1-h6, p, table, etc.
+O **display: block** faz com que um elemento se comporte como um elemento de bloco, ou seja, ocupa todo o espaço disponível na largura do seu container e empurra para a próxima linha abaixo . Alguns exemplos de elementos que são exibidos como bloco por padrão são divs, h1-h6, p, table, etc.
 
-Já o display: inline faz com que um elemento se comporte como um elemento de inline, ou seja, ocupa somente o espaço necessário para o seu conteúdo e não quebra para a próxima linha. Alguns exemplos de elementos que são exibidos como inline por padrão são spans, a, strong, etc.
+Já o **display: inline** faz com que um elemento se comporte como um elemento de inline, ou seja, ocupa somente o espaço necessário para o seu conteúdo e não quebra para a próxima linha. Alguns exemplos de elementos que são exibidos como inline por padrão são spans, a, strong, etc.
 
 ---
 **block**
@@ -151,7 +151,7 @@ inline: <a> <strong> <span> <em>
  ```
 # Margin , Padding, Border
 
-* **Margin**: Define a margem externa de um elemento em relação aos elementos circundantes. 
+ **Margin**: Define a margem externa de um elemento em relação aos elementos circundantes. 
 Por exemplo:
 
 
@@ -161,14 +161,14 @@ Por exemplo:
 
 
 
- * **Padding**: Define o preenchimento interno de um elemento, ou seja, a distância entre as bordas do elemento e seu conteúdo. 
+  **Padding**: Define o preenchimento interno de um elemento, ou seja, a distância entre as bordas do elemento e seu conteúdo. 
  Por exemplo:
 
 >div {
   padding: 20px;
 }
 
-* **Border**: Define a borda de um elemento, que pode ser estilizada de várias maneiras, como largura, cor e estilo. 
+ **Border**: Define a borda de um elemento, que pode ser estilizada de várias maneiras, como largura, cor e estilo. 
 Por exemplo:
 
 >div {
@@ -253,8 +253,10 @@ align-items
 * cria espaço para os elementos filhos habitarem 
 
 ### Grid ou Flexbox 
-Qual usar e quando usar ( tenho q rever isos aki)
 
-# 
+* O Flexbox é melhor utilizado para organizar conteúdos em uma única dimensão, como linhas ou colunas. Ele é ideal para alinhar elementos vertical ou horizontalmente, ou distribuir elementos em um mesmo eixo.
+
+* Já o Grid é um sistema bidimensional, que permite criar layouts mais complexos, com alinhamentos e tamanhos de colunas e linhas definidos explicitamente. É ideal para criar layouts de páginas ou seções que necessitam de elementos organizados em duas dimensões.
+
 
 
