@@ -251,7 +251,17 @@ Os parâmetros são os nomes das variáveis ​​que são usadas para receber o
 
 
 ### If Else
-???
+O comando if verifica se a condição é verdadeira e executa o bloco de código especificado. Se a condição for falsa, o bloco de código dentro do if será ignorado e o fluxo do programa irá para o bloco else, se houver.
+
+	if (condição) {
+   	// código a ser executado se a condição for verdadeira
+	} else {
+ 	  // código a ser executado se a condição for falsa
+	}
+
+
+
+
 
 ### Switch
 Vamos usar uma declaração chamada switch, que tem um papel muito similar ao if e ao else if, vistos na aula passada, porém a estrutura é bem diferente, e aqui veremos essa estrutura.
