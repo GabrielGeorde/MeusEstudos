@@ -381,7 +381,6 @@ for (const number of numbers) {
 
 Isso irá imprimir cada número no array numbers na tela.
 
-Resumo do que ele faz : ???
 
   ### for...in
 ---
