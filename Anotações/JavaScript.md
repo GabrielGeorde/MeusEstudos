@@ -366,10 +366,7 @@ let i = 0
 
 
   ### for...of
-  ---
-  **ESTUDAR MAIS SÓ LI A TEORIA**
   
-  ---
 For...of é um loop que itera sobre valores de uma iteração, enquanto o for...in itera sobre as chaves de uma iteração.
 
 O loop for...of é usado para iterar sobre valores em uma iteração, como uma string, um array ou um objeto que implementa a interface iterable. Por exemplo:
@@ -383,10 +380,7 @@ Isso irá imprimir cada número no array numbers na tela.
 
 
   ### for...in
----
-**ESTUDAR MAIS SÓ LI A TEORIA**
 
----
 Já o loop for...in é usado para iterar sobre as chaves de uma iteração, como um objeto ou um array. Por exemplo:
 
 >const person = {
