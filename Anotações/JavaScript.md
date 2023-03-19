@@ -47,7 +47,7 @@ let num = parseFloat(str);  // num é um número de ponto flutuante com o valor 
 >str = "3.14";
 num = parseFloat(str);  // num é um número de ponto flutuante com o valor 3.14
 
-Para converter um número para uma string, você pode usar o método "toString" ou concatenar o número com uma string vazia. **é mais recomendado usar o método "toString" para converter um número para uma string em JavaScript, ao invés da concatenação com uma string vazia.**
+Para converter um número para uma string, você pode usar o método "toString" ou concatenar o número com uma string vazia. **É mais recomendado usar o método "toString" para converter um número para uma string em JavaScript, ao invés da concatenação com uma string vazia.**
 
 O método "toString" converte um número para uma string e aceita um segundo argumento opcional que especifica a base numérica da string. Por exemplo:
 
